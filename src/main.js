@@ -3,26 +3,26 @@ import App from './App.svelte';
 const app = new App({
 	target: document.body,
 	props: {
-		photo: 'images/david.jpg',
-		name: 'David López',
-		job: 'Full-stack Developer',
-		tags: '#javascript #vuejs #sass #symfony #doctrine #html5 #css3 #sublime #osx #madrid',
+		photo: 'images/norberto.jpg',
+		name: 'Norberto Rodríguez',
+		job: 'Art Director',
+		tags: '#graphicdesign #editorialdesign #illustration #illustrator #indesign #photoshop #malaga',
 		social: [
 			{
 				name: 'linkedin',
-				url: 'https://es.linkedin.com/in/davidlpz/'
+				url: 'https://www.linkedin.com/in/norberto-rodr%C3%ADguez-l%C3%B3pez-b9b203130'
 			},
 			{
-				name: 'codepen',
-				url: 'https://codepen.io/davidlpz/'
+				name: 'behance',
+				url: 'https://www.behance.net/norbertorodriguez_'
 			},
 			{
-				name: 'github',
-				url: 'https://github.com/davidlpz/'
+				name: 'instagram',
+				url: 'https://www.instagram.com/norbertorodriguez_'
 			},
 			{
 				name: 'mail',
-				url: 'mailto:davidlpzgomez@gmail.com'
+				url: 'mailto:norbertorodriguezlopez@hotmail.com'
 			},
 		],
 	}

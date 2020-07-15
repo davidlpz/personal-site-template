@@ -75,16 +75,21 @@
         opacity: .7;
     }
     .links .linkedin {
-        background-image: url(../images/icon_linkedin_circle.svg);
+        background-image: url(../images/icon_linkedin.svg);
+        background-size: 24px;
+        position: relative;
+        top: -2px;
     }
-    .links .codepen {
-        background-image: url(../images/icon_codepen_circle.svg);
+    .links .behance {
+        background-image: url(../images/icon_behance.svg);
     }
-    .links .github {
-        background-image: url(../images/icon_github_circle.svg);
+    .links .instagram {
+        background-image: url(../images/icon_instagram.svg);
+        background-size: 24px;
     }
     .links .mail {
-        background-image: url(../images/icon_mail_circle.svg);
+        background-image: url(../images/icon_mail.svg);
+        background-size: 24px;
     }
     @media (min-width: 480px) {
         main {
