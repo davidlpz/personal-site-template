@@ -22,7 +22,7 @@ const app = new App({
 			},
 			{
 				name: 'mail',
-				url: 'mailto:norbertorodriguezlopez@hotmail.com'
+				url: 'mailto:hola@norbertorodriguez.es'
 			},
 		],
 	}
